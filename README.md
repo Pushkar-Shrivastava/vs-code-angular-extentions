@@ -1,4 +1,11 @@
-# vs-code-angular-extentions
+# vs code hot keys
+ctrl + shift + p = command pellete.
+Ctrl + K + C = comment a selected piece of code.
+Ctrl + K + U = uncomment a selected piece of code.
+shift + alt + f = format your code neatly.
+
+
+# vs code angular extentions
 list of extentions i use for angular work
 
 
