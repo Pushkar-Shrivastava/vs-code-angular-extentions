@@ -7,8 +7,6 @@ shift + alt + f = format your code neatly.
 
 
 # vs code angular extentions
-list of extentions i use for angular work
-
 
 1)Angular Files by Alexander Ivanichev
 2)Angular Language Service by angular
