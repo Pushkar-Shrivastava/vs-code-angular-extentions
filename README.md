@@ -1,3 +1,4 @@
+```
 # vs code hot keys
 ctrl + shift + p = command pellete.
 Ctrl + K + C = comment a selected piece of code.
@@ -17,3 +18,4 @@ list of extentions i use for angular work
 6)ES7 React/Redux/GraphQL/React-Native snippets by dsznajder
 7)ESLint by Dirk Baeumer
 
+```
