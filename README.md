@@ -1,9 +1,9 @@
-```
+
 # vs code hot keys
-ctrl + shift + p = command pellete.
-Ctrl + K + C = comment a selected piece of code.
-Ctrl + K + U = uncomment a selected piece of code.
-shift + alt + f = format your code neatly.
+```ctrl + shift + p = command pellete.```
+```Ctrl + K + C = comment a selected piece of code.```
+```Ctrl + K + U = uncomment a selected piece of code.```
+```shift + alt + f = format your code neatly.```
 
 
 # vs code angular extentions
@@ -18,4 +18,4 @@ list of extentions i use for angular work
 6)ES7 React/Redux/GraphQL/React-Native snippets by dsznajder
 7)ESLint by Dirk Baeumer
 
-```
+
